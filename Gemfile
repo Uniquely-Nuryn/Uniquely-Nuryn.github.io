@@ -12,3 +12,5 @@ gem "tzinfo-data", "~> 1.2025"
 
 #Please add the following to your Gemfile to avoid polling for changes:
 gem 'wdm', '>= 0.1.0'
+
+gem 'jekyll-redirect-from'
