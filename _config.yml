@@ -24,7 +24,7 @@ navbar-links:
   Blog: "blog-home"
   Projects: "projects"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn Jeckyll: "https://jekyllrb.com/docs/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   
 
@@ -128,11 +128,11 @@ text-col: "#404040" #colour of the text on the page
 link-col: "#008AFF"
 hover-col: "#b782a1" #colour when hovering over a link in the page body
 navbar-col: "#59324c"
-navbar-text-col: "#dbd4ce"
+navbar-text-col: "#FFFFFF" #"#dbd4ce"
 navbar-border-col: "#DDDDDD"
-footer-col: "#59324c"
-footer-text-col: "#777777"
-footer-link-col: "#dbd4ce"
+footer-col: "#59324c" # "#905b73"
+footer-text-col: "#FFFFFF" #"#777777"
+footer-link-col: "#dbd4ce" #"#dbd4ce"
 footer-hover-col: "#b782a1" #colour when hovering over a link in the footer
 
 # Alternatively, the navbar, footer, and page background can be set to an image
