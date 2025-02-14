@@ -1,7 +1,6 @@
 ---
 layout: page
 title: SUTD Projects
-#subtitle: 
 permalink: /projects/
 
 ---

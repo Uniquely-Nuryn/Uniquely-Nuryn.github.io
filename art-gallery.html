@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: "/art-gallery/"
+
+images: 
+- image_path: /assets/img/procreate/Girl_With_The_Green_Scarf_In_Winter.png
+  title: "Girl_With_The_Green_Scarf_In_Winter"
+- image_path: /assets/img/procreate/Ice_Skating_Landscape.png
+  title: "Dreams of Ice-Skating"
+---
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<ul class="photo-gallery">
+  {% for image in page.images %}
+      <li>
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </li>
+  {% endfor %}
+    </ul>

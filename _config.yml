@@ -21,7 +21,8 @@ author: Nuryn Insyirah
 
 navbar-links:
   Home: "home"
-  Blog: "blog-home"
+  Art: "art-gallery"
+  #Blog: "blog-home"
   Projects: "projects"
   Resources:
     - Learn Jeckyll: "https://jekyllrb.com/docs/"
@@ -271,6 +272,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      #permalink: /projects/:title/ #I added not sure if correct
 
 # Exclude these files from production site
 exclude:

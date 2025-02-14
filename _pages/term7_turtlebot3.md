@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Navigation and Image Processing on TurtleBot3
 subtitle: "Term 7 Intelligent Robotics Course"
-#permalink: /projects/term-7-robotics-project
+permalink: /projects/term7-robotics-project
 ---
 ### Table of Contents
 - [Project Overview and Tasks](#project-overview-and-tasks)
