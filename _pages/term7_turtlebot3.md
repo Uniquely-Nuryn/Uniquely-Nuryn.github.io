@@ -4,6 +4,8 @@ title: Autonomous Navigation and Image Processing on TurtleBot3
 subtitle: "Term 7 Intelligent Robotics Course"
 permalink: /projects/term7-robotics-project
 ---
+<!--popup for IR final report -->
+<p><a target= "_blank" href ="Intelligent_Robotics_Final_Report.pdf">Paper</a></p>
 ### Table of Contents
 - [Project Overview and Tasks](#project-overview-and-tasks)
 - [Working Together as Beginners](#working-together-as-beginners)
@@ -17,7 +19,7 @@ This project, which was part of our Intelligent Robotics course, required us to 
 2. Map the maze **autonomously** using Frontier Based Exploration;
 3. Use **image recognition** to count number of items seen plus stop autonomously upon seeing the 'STOP' sign.
 
-We were advised to use ROS 2 (Humble) as Ubuntu 22.04 has been pre-installed for us on the shared Legion laptop that our team received. 
+We used ROS 2 (Humble) as Ubuntu 22.04 has been pre-installed for us on the given team laptop (Legion). 
 
 ### Working Together as Beginners
 
