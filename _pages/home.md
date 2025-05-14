@@ -8,4 +8,4 @@ I am a final year undergraduate student in the Singapore University of Technolog
 
 As someone who is pursuing STEM and also a creative soul, I'm keen on exploring the fusion of STEM with artistry. I'm driven by a constant desire to learn, develop my skills and find my niche while seeking opportunities that support my personal and professional growth. 
 
-Outside of my work, I enjoy doing art, ballet, exercising and reading books.
+Outside of my work, I enjoy doing art, ballet, exercising and reading (preferably fiction) books.

@@ -21,12 +21,10 @@ author: Nuryn Insyirah
 
 navbar-links:
   Home: "home"
+  SUTD Projects: "projects"
   Art: "art-gallery"
   #Blog: "blog-home"
-  Projects: "projects"
-  Resources:
-    - Learn Jeckyll: "https://jekyllrb.com/docs/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+
   
 
 ################
