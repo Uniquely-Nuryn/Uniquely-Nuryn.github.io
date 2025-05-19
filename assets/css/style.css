@@ -12,3 +12,17 @@
 	width: 100%;
 }
 
+.photo-gallery figcaption {
+  text-align: center;
+  margin-top: 4rem;
+  font-size: 1.3rem;
+  color: #666;
+}
+
+.photo-gallery title {
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
