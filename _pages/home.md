@@ -2,7 +2,7 @@
 layout: page
 title: Nuryn Insyirah's Portfolio
 subtitle: SUTD'2025 / Bachelor's in Engineering Product Development (EPD)
-permalink: /home/
+redirect_to: /
 ---
 
 Hello and welcome to my personal portfolio 😊 
