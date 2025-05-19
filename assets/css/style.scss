@@ -1,0 +1,63 @@
+
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.pubtitle {
+  margin-bottom: .5em;
+  line-height: 1.2em;
+  font-weight: bold !important;
+}
+
+.pubsubject, .pubinfo {
+  font-size: 75%;
+  margin-bottom: .75em;
+}
+
+div.pubteaser{
+  clear: both;
+  width: 100px !important;
+  height: auto !important;
+  border: 1px solid black;
+}
+
+.pubteaser a {
+  float: left;
+  margin-right: 2em;
+}
+
+div.pubteaser img {
+  width: 100px !important;
+  height: auto !important;
+  border: 1px solid black;
+}
+
+.publinks {
+  font-size: 75%;
+}
+
+.publication-authors {
+  margin: 0.5rem 0;
+}
+
+.publication-info {
+  margin: 0.5rem 0;
+}
+
+.publication-teaser {
+  margin: 2em;
+}
+
+.publication-teaser img {
+  border: none;
+}
+
+figure {
+	text-align: center;
+	margin: 2em 0;
+  }
+  figcaption {
+	font-size: 0.9em;
+	color: #666;
+  }

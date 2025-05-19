@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="page">
+
+  <h1 class="mt-4 publication-title">{{ page.title }}</h1>
+
+  <div class="publication-info">
+    {{ page.subject }}, {{ page.year}}
+  </div>
+
+  <div class="publication-teaser">
+    <img src="/assets/img/{{ page.slug }}_small.png" alt="project teaser"/>
+  </div>
+
+  {{ content }}
+
+

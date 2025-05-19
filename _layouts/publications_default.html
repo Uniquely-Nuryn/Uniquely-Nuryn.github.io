@@ -1,0 +1,16 @@
+---
+layout: base
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include header.html %}
+  <body>
+    {% include nav.html %}
+    <div class="container">
+      {{ content }}
+    </div>
+    <!--{% include footer.html %}-->
+    <script src="{{ '/js/jquery-3.3.1.min.js' | relative_url }}"></script>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

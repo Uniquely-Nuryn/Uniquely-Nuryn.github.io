@@ -21,10 +21,21 @@ author: Nuryn Insyirah
 
 navbar-links:
   Home: "home"
-  SUTD Projects: "projects"
   Art: "art-gallery"
   #Blog: "blog-home"
+  SUTD Projects: "publications"
+  #SUTD Projects: "projects"
 
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+sass:
+  sass_dir: css
+  style: compressed
+include:
+  - js
   
 
 ################

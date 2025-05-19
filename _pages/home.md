@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Nuryn Insyirah's Portfolio
-subtitle: EPD Undergraduate Student at SUTD
+subtitle: SUTD'2025 / Bachelor's in Engineering Product Development (EPD)
 permalink: /home/
 ---
-I am a final year undergraduate student in the Singapore University of Technology and Design (SUTD). I am pursuing a Bachelor in Engineering Product Development (EPD), with a specialisation in Robotics.
 
-As someone who is pursuing STEM and also a creative soul, I'm keen on exploring the fusion of STEM with artistry. I'm driven by a constant desire to learn, develop my skills and find my niche while seeking opportunities that support my personal and professional growth. 
+Hello and welcome to my personal portfolio 😊 
 
-Outside of my work, I enjoy doing art, ballet, exercising and reading (preferably fiction) books.
+I am a recent graduate from the Singapore University of Technology and Design (SUTD) with a Bachelor's degree in Engineering Product Development (EPD).
+    
+My educational background is rooted in STEM, and I have taken a broad range of technical courses like Topics in Biomedical and Healthcare Engineering; Science of Sound; Systems and Control; and Digital Signal Processing at SUTD. Throughout my time in SUTD, I also worked on numerous group projects — a few of my favourites are curated in the <a href="publications.html">SUTD Projects</a> section.
+
+That aside, I am also passionate about health and wellness, mindful living, caring for the environment and personal growth. In my pastime, I enjoy exercising, reading, ballet, and art. You can find some of my personal artwork in the <a href="art-gallery.html">Art</a> section of this site.
+

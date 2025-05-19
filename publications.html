@@ -1,0 +1,50 @@
+---
+layout: default
+permalink: /publications/
+css:
+  - /assets/css/style.css
+---
+
+<h1 class="mt-4">SUTD Projects</h1> 
+<div class="container" style="margin-bottom: 3rem;">
+In this page, you will find a compilation of selected group projects I have worked on in SUTD. The project-based curriculum in SUTD has allowed me to collaboratively work with many different bright people, explore various interests and develop both my technical and soft skills.
+
+I have written short blog posts for these projects, where I briefly share about my experiences, contributions and what I have learnt through these projects. The projects are listed below (in reverse chronological order):
+</div>
+
+
+{% assign publications = site.publications | sort: "order" %}
+
+<div class="container">
+  {% for pub in publications %}
+    <div class="pubitem d-flex align-items-start mb-4">
+    
+      <div class="pubteaser" style ="margin-right: 15px">
+      <a href="{{pub.url}}">
+        <img src="/assets/img/{{ pub.slug }}_small.png" style="width: 250px; min-width: 250px; max-width: 250px; border: 1px solid grey;"alt="{{pub.slug}} publication teaser"/>
+      </a>
+    </div>
+
+  <div class="pubdetails">
+    <div class="pubtitle h5 fw-bold"> 
+      {{ pub.title }}
+    </div>
+
+    <div class="pubinfo small text-muted mb-2">
+      {{ pub.subject }}, {{ pub.year}}
+    </div>
+    
+  <div class="pubdesc">
+    <div class="pubinfo small text-muted mb-2">
+    {{ pub.description }}
+    </div>
+  </div>
+
+    <div class="publinks">
+      <a href="/projects/{{ pub.slug}}.pdf"><i class="far fa-file-pdf"></i> PDF</a>&nbsp;&nbsp;
+      <a href="{{pub.url}}"><i class="fas fa-arrow-right"></i> Project Page</a>
+    </div>
+  </div>
+
+</div>
+  {% endfor %}

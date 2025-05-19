@@ -11,3 +11,12 @@
 .photo-gallery li img {
 	width: 100%;
 }
+
+figure {
+	text-align: center;
+	margin: 2em 0;
+  }
+  figcaption {
+	font-size: 0.9em;
+	color: #666;
+  }
