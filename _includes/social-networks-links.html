@@ -39,14 +39,14 @@
   </li>
   {%- endif -%}
 
-  {%- if network[0] == "facebook" -%}
+  {%- if network[0] == "goodreads" -%}
   <li class="list-inline-item">
-    <a href="https://www.facebook.com/{{ network[1] }}" title="Facebook">
+    <a href="https://www.goodreads.com/user/show/{{ network[1] }}" title="Goodreads">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-goodreads fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">Facebook</span>
+      <span class="sr-only">Goodreads</span>
    </a>
   </li>
   {%- endif -%}
