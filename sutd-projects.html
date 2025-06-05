@@ -17,7 +17,6 @@ I have written short blog posts for these projects, where I briefly share about 
 <div class="container">
   {% for pub in publications %}
     <div class="row mb-4">
-
       <div class="col-md-4 mb-3 mb-md-0">
       <!-- <div class="pubteaser" style ="margin-right: 15px"> -->
       <a href="{{pub.url}}">
@@ -26,7 +25,7 @@ I have written short blog posts for these projects, where I briefly share about 
       </div>
 
       <div class="col-md-8">
-        <div class="pubtitle h5 fw-bold">{{ pub.title }}</div>
+        <div class="pubtitle h4 fw-bold">{{ pub.title }}</div>
         <div class="pubinfo small text-muted mb-2">{{ pub.subject }}, {{ pub.year}}</div>
         <div class="pubdesc">
           <div class="pubinfo small text-muted mb-2">{{ pub.description }}</div>
@@ -41,3 +40,4 @@ I have written short blog posts for these projects, where I briefly share about 
 </div>
 
   {% endfor %}
+</div>
