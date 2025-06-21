@@ -23,7 +23,7 @@ navbar-links:
   Home: "/"
   Art: "art-gallery"
   #Blog: "blog-home"
-  SUTD Projects: "sutd-905b73projects"
+  SUTD Projects: "sutd-projects"
   #SUTD Projects: "projects"
 
 
@@ -68,18 +68,7 @@ social-network-links:
   linkedin: nuryn-insyirah-bte-mohd-adib
   goodreads: 177841246-nuryn-insyirah
 #  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  kaggle: yourname
-#  gitlab: yourname
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
