@@ -21,10 +21,10 @@ author: Nuryn Insyirah
 
 navbar-links:
   Home: "/"
-  Art: "art-gallery"
+  #Art: "art-gallery"
+  Art: "art-gallery-new"
   #Blog: "blog-home"
   SUTD Projects: "sutd-projects"
-  #SUTD Projects: "projects"
 
 
 collections:
