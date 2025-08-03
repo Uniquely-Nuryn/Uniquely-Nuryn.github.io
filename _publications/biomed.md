@@ -4,7 +4,7 @@ title: Patient-Specific Foot Insole Design Project
 slug: biomed
 year: 2024
 subject: Term 6 Topics in Biomedical & Healthcare Engineering 
-order: 3
+order: 4
 description: We developed a more streamlined workflow for the mass production of customised insoles for patients with diabetic foot using Rhino + Grasshopper and 3D printing.
 ---
 

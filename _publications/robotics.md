@@ -4,7 +4,7 @@ title: TurtleBot3 Autonomous Navigation
 slug: intelligent_robotics
 year: 2024
 subject: Term 7 Intelligent Robotics
-order: 2
+order: 3
 description: Our team configured a TurtleBot3 to navigate autonomously through a maze and count the images it passed by using ROS 2 and Python.
 
 ---

@@ -4,7 +4,7 @@ title: Shape Memory Alloy for Adjustable Fixation in High Tibial Osteotomy
 slug: materialscience
 year: 2024
 subject: Term 6 Material Science
-order: 4
+order: 5
 ---
 ## 1. About this Project
 This project required us to design our own experiment/test to evaluate a **material property** of Nitinol (NiTi) for any specific application. We were only given an 8cm NiTi wire to test on, so we had to be creative and think outside the box on how to do the test.
